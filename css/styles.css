@@ -1,0 +1,41 @@
+.ul {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+li {
+    font-weight: 400;
+    font-size: 17px;
+    color: #636060;
+    margin-right: 50px;
+}
+
+.owl {
+    margin: 20px;
+}
+
+.P {
+    font-size: 79px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.P1 {
+    font-size: 19px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.IMG {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.div1 {
+    position: relative;
+}
+
+.div2 {
+    position: absolute;
+}
