@@ -18,13 +18,13 @@ li {
 .P {
     font-size: 79px;
     font-weight: 700;
-    color: #FFFFFF;
+    color: purple;
 }
 
 .P1 {
     font-size: 19px;
     font-weight: 400;
-    color: #FFFFFF;
+    color: purple;
 }
 
 .IMG {
@@ -38,4 +38,31 @@ li {
 
 .div2 {
     position: absolute;
+}
+
+footer {
+    display: flex;
+}
+
+.ls {
+width: 300px;
+height: 215px;
+}
+
+.ls h1 {
+    font-weight: 400;
+    font-size: 17px;
+    color: #636060;
+}
+
+.ls h2 {
+    font-size: 28px;
+    font-weight: 400;
+    color: #010101;
+}
+
+.ls p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #636060;
 }
