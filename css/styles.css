@@ -45,24 +45,31 @@ footer {
 }
 
 .ls {
-width: 300px;
-height: 215px;
+margin: 100px;
 }
 
 .ls h1 {
     font-weight: 400;
     font-size: 17px;
     color: #636060;
+    margin-bottom: 10px;
+    width: 89px;
+    height: 20px;
 }
 
 .ls h2 {
     font-size: 28px;
     font-weight: 400;
     color: #010101;
+    margin-bottom: 40px;
+    width: 214px;
+    height: 32px;
 }
 
 .ls p {
     font-size: 20px;
     font-weight: 400;
     color: #636060;
+    width: 235px;
+    height: 115px;
 }
