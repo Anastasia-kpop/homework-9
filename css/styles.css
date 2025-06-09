@@ -3,6 +3,10 @@
     justify-content: flex-end;
 }
 
+i {
+    display: none !important;
+}
+
 li {
     font-weight: 400;
     font-size: 17px;
@@ -47,6 +51,7 @@ footer {
 
 .ls {
 margin: 100px;
+width: 250px;
 min-width: 250px;
 }
 
