@@ -37,6 +37,8 @@ li {
 
 .div2 {
     position: absolute;
+    top: 40%;
+    left: 40%;
 }
 
 footer {
@@ -45,6 +47,7 @@ footer {
 
 .ls {
 margin: 100px;
+min-width: 250px;
 }
 
 .ls h1 {
